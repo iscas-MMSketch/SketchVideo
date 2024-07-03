@@ -1,5 +1,5 @@
 # SketchVideo
-Dataset accompanying the paper **Fine-grained video retrieval with scene sketches**.
+Dataset for fine-grained scene-level SBVR. Please refer to our paper for more information: ["Fine-grained video retrieval with scene sketches"](https://ieeexplore.ieee.org/document/10136606). 
 
 ### Dataset Summary
 
