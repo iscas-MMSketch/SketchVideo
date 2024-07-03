@@ -5,7 +5,7 @@ Dataset for fine-grained scene-level SBVR. Please refer to our paper for more in
 
 Our **Scene-level Sketch-Video Dataset (SketchVideo)** is proposed for fine-grained scene-level sketch-video research like sketch-based video retrieval and synthesis. SketchVideo contains 1,126 video clips collected from YouTube, and 6,713 corresponding sketches forming clip-level and frame-level representations, drawn by 30 amateur painters with diverse personal painting skills and styles. All strokes in the sketches are annotated with instance-level labels. 
 
-**Download**: [SketchVideo]()
+**Download**: [SketchVideo](https://drive.google.com/file/d/1okWRNJ0TEG3cP9WrPoHzRP8FB_t1mssv/view?usp=drive_link)
 
 ### Dataset Structure
 The sketch-video pairs are provided in three folders (video, sketch, and sketch JSON files), and each pair contains one clip-level storyboard sketch (which can contain instances in different video frames) and several keyframe sketches (each of which contains instances in one video frame).
