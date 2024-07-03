@@ -1,4 +1,5 @@
 # SketchVideo
+Dataset accompanying the paper **Fine-grained video retrieval with scene sketches**.
 
 ### Dataset Summary
 
